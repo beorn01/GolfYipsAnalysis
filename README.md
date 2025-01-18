@@ -1,6 +1,6 @@
 # README
 
-# Introduction to the Golf Putting Analysis Repository
+# Introduction to the Golf Putting Analysis 
 
 This repository provides a comprehensive workflow for collecting, synchronizing, analyzing, and segmenting golf putting data captured from both GoPro cameras and multiple sensor inputs (IMUs, magnetometry, and EMG). Each script or notebook within this repository corresponds to a major step in the data processing and analysis pipeline—from aligning and trimming raw video feeds to classifying putting accuracy.
 
